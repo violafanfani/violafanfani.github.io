@@ -6,12 +6,15 @@ author_profile: true
 ---
 
 ## Publications
-
+ 
+ * Fanfani, Viola, et al. _‘Dissecting the heritable risk of breast cancer: from statistical methods to susceptibility genes.‘_ Seminars in Cancer Biology. Academic Press, 2020. doi: [https://doi.org/10.1016/j.semcancer.2020.06.001]("https://doi.org/10.1016/j.semcancer.2020.06.001")
+ * Draberova, Helena, et al. _‘Systematic analysis of the IL‐17 receptor signalosome reveals a robust regulatory feedback loop.’_ The EMBO Journal (2020): e104202. doi: [https://doi.org/10.15252/embj.2019104202]("https://doi.org/10.15252/embj.2019104202")
  * Fanfani, V. and Stracquadanio, G. _‘A unified framework for geneset network analysis’_, bioRxiv,   2019, doi: 10.1101/699926
  * Fanfani, V.  Citi, L., Harris, AL, Pezzella, F. and Stracquadanio, G. _‘Gene-level heritability analysis explains the polygenic architecture of cancer’_. bioRxiv, 2019, doi: 10.1101/599753
 
 ## Conferences
 
+ * 2020, __"The Biology of Genomes"__, virtual meeting, CSHL, US. _Poster Presentation_: "Decoding cancer risk in the broader population with gene-level heritability".
  * 2019, __Genes and Cancer Meeting__, Cambridge, UK. _Selected flash talk_: "Dissecting cancer heritability in European populations".  
  * 2018, __From functional genomics to system biology__, EMBL, Heidelberg, DL. _Poster presentation_: "Geneset Network Analysis: understanding high-throughput genomic data using the interactome".  
  * 2018, __BACR Students Conference__.  _Poster presentation_: “A new geneset analysis approach to identify and characterise cancer pathways”    
