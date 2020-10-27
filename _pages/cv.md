@@ -25,9 +25,9 @@ redirect_from:
 
 ## Recent publications 
 
+ * Fanfani, Viola, et al. ‘PyGNA: a unified framework for geneset network analysis‘. BMC Bioinformatics, 2020. https://doi.org/10.1186/s12859-020-03801-1
  * Fanfani, Viola, et al. ‘Dissecting the heritable risk of breast cancer: from statistical methods to susceptibility genes.’ Seminars in Cancer Biology. Academic Press, 2020. https://doi.org/10.1016/j.semcancer.2020.06.001
  * Draberova, Helena, et al. ‘Systematic analysis of the IL‐17 receptor signalosome reveals a robust regulatory feedback loop.’ The EMBO Journal (2020): e104202. doi: https://doi.org/10.15252/embj.2019104202
- * Fanfani, V. and Stracquadanio, G. ‘A unified framework for geneset network analysis’, bioRxiv,   2019, doi: 10.1101/699926
  * Fanfani, V.  Citi, L., Harris, AL, Pezzella, F. and Stracquadanio, G. ‘Gene-level heritability analysis explains the polygenic architecture of cancer’. bioRxiv, 2019, doi: 10.1101/599753
  
 ## Conferences

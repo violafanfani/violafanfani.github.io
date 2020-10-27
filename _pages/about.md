@@ -28,7 +28,9 @@ I am a 3rd year PhD student at The University of Edinburgh, under the supervisio
 News
 ======
 
- * Very excited to announce my __first first-author publication__! Fanfani, Viola, et al. "Dissecting the heritable risk of breast cancer: from statistical methods to susceptibility genes." Seminars in Cancer Biology. Academic Press, 2020. doi: [https://doi.org/10.1016/j.semcancer.2020.06.001]("https://doi.org/10.1016/j.semcancer.2020.06.001")
+ * __Pygna is out!__ Check the manuscript on BMC Bioinformatics:[https://doi.org/10.1186/s12859-020-03801-1](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03801-1)
+
+ * Very excited to announce my __first first-author publication__! Fanfani, Viola, et al. "Dissecting the heritable risk of breast cancer: from statistical methods to susceptibility genes." Seminars in Cancer Biology. Academic Press, 2020. doi: [https://doi.org/10.1016/j.semcancer.2020.06.001](https://doi.org/10.1016/j.semcancer.2020.06.001)
 
  * I am excited to be participating into the upcoming __"The Biology of Genomes"__ Virtual Meeting, 5 - 8 May. I'll also be presenting my poster: 
  _Decoding cancer risk in the broader population with gene-level heritability_.
