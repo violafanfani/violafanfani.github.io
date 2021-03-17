@@ -24,13 +24,14 @@ redirect_from:
 **2017, BSc. in Biomedical Engineering**. Università degli Studi di Pisa, Italy.   
 
 ## Recent publications 
-
+ * Fanfani, Viola, et al. ‘The landscape of the heritable cancer genome‘. Cancer Research, 2021. https://cancerres.aacrjournals.org/content/early/2021/03/12/0008-5472.CAN-20-3348
  * Fanfani, Viola, et al. ‘PyGNA: a unified framework for geneset network analysis‘. BMC Bioinformatics, 2020. https://doi.org/10.1186/s12859-020-03801-1
  * Fanfani, Viola, et al. ‘Dissecting the heritable risk of breast cancer: from statistical methods to susceptibility genes.’ Seminars in Cancer Biology. Academic Press, 2020. https://doi.org/10.1016/j.semcancer.2020.06.001
  * Draberova, Helena, et al. ‘Systematic analysis of the IL‐17 receptor signalosome reveals a robust regulatory feedback loop.’ The EMBO Journal (2020): e104202. doi: https://doi.org/10.15252/embj.2019104202
  * Fanfani, V.  Citi, L., Harris, AL, Pezzella, F. and Stracquadanio, G. ‘Gene-level heritability analysis explains the polygenic architecture of cancer’. bioRxiv, 2019, doi: 10.1101/599753
  
 ## Conferences
+* 2021, Network Biology virtual meeting, CSHL, US. Poster Presentation: “Interpretable graph neural networks unveil system‑levelreprogramming in cancer”.
 * 2020, The Biology of Genomes virtual meeting, CSHL, US. Poster Presentation: "Decoding cancer risk in the broader population with gene-level heritability".
 * 2019, Genes and Cancer Meeting, Cambridge, UK. Selected flash talk: "Dissecting cancer heritability in European populations".  
 * 2018, From functional genomics to system biology, EMBL, Heidelberg, DL. Poster presentation: "Geneset Network Analysis: understanding high-throughput genomic data using the interactome".  
@@ -53,10 +54,10 @@ redirect_from:
 * __Other__: Git, Latex, Photoshop, Illustrator
 
 ## Teaching
-
-* 2019 – Tutor on Next Generation Sequencing for "Tools for Synthetic Biology". 
+* 2021 - Invited Instructor "Primer on Bayesian modelling", SynBio Society, Edinburgh, UK.  
+* 2019 & 2020 – Tutor on Next Generation Sequencing for "Tools for Synthetic Biology". 
  The University of Edinburgh.   
-* 2019 – Invited instructor. "Analytics & Data Science Summer School 2019”.   
+* 2019 & 2021 – Invited instructor. "Analytics & Data Science Summer School 2019”.   
   IADS, University of Essex, UK. Course title: "Learning from Small Data"
 * 2018 – Teaching and Lab Assistant at the University of Essex for the PGR introductory course 
   "CSEE Bootcamp".   
