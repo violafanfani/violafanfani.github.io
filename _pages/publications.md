@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publications
- * Fanfani, Viola, et al. ‘The landscape of the heritable cancer genome‘. Cancer Research, 2021. https://cancerres.aacrjournals.org/content/early/2021/03/12/0008-5472.CAN-20-3348
+ * Fanfani, Viola, et al. ‘The landscape of the heritable cancer genome‘. Cancer Research, 2021. link: [https://cancerres.aacrjournals.org/content/early/2021/03/12/0008-5472.CAN-20-3348]
  * Fanfani, Viola, et al. _‘PyGNA: a unified framework for geneset network analysis.‘_ BMC Bioinformatics, 2020. doi: [https://doi.org/10.1186/s12859-020-03801-1](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03801-1)
  * Fanfani, Viola, et al. _‘Dissecting the heritable risk of breast cancer: from statistical methods to susceptibility genes.‘_ Seminars in Cancer Biology. Academic Press, 2020. doi: [https://doi.org/10.1016/j.semcancer.2020.06.001](https://doi.org/10.1016/j.semcancer.2020.06.001)
  * Draberova, Helena, et al. _‘Systematic analysis of the IL‐17 receptor signalosome reveals a robust regulatory feedback loop.’_ The EMBO Journal (2020): e104202. doi: [https://doi.org/10.15252/embj.2019104202](https://doi.org/10.15252/embj.2019104202)
