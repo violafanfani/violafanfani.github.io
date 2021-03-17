@@ -28,7 +28,7 @@ I am a 3rd year PhD student at The University of Edinburgh, under the supervisio
 News
 ======
 
-* __BAGHERA is finally on Cancer Research!__ Check out the OnlineFirst version [doi: 10.1158/0008-5472.CAN-20-3348](https://cancerres.aacrjournals.org/content/early/2021/03/12/0008-5472.CAN-20-3348)
+* __BAGHERA is finally on Cancer Research!__ Check out the OnlineFirst version of "The andscape of the heritable cancer genome" [doi: 10.1158/0008-5472.CAN-20-3348](https://cancerres.aacrjournals.org/content/early/2021/03/12/0008-5472.CAN-20-3348)
 
  * __Pygna is out!__ Check the manuscript on BMC Bioinformatics:[https://doi.org/10.1186/s12859-020-03801-1](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03801-1)
 
