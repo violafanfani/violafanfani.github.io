@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Viola Fanfani"
 title_separator          : ""
 name                     : &name "Viola Fanfani"
-description              : &description "PhD student @stracquadaniolab"
+description              : &description "Postdoc @QuackenbushLab"
 url                      : https://violafanfani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Viola Fanfani"
   avatar           : "profile_moma_small.png"
-  bio              : "A PhD Student and Computational Biologist who loves books, movies and theatre."
-  location         : "The University of Edinburgh"
+  bio              : "A Computational Biologist who loves books, movies and theatre."
+  location         : "Harvard School of Public Health"
   employer         : 
   pubmed           : 
   googlescholar    : "https://bit.ly/2WNjXzl"
-  email            : "v.fanfani@sms.ed.ac.uk"
+  email            : "vfanfani@hsph.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
