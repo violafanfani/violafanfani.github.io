@@ -12,11 +12,20 @@ redirect_from:
 
 <div style="text-align: justify"> 
 
-I am a 3rd year PhD student at The University of Edinburgh, under the supervision of <a href="https://www.stracquadaniolab.org/">Dr. Giovanni Stracquadanio</a> and Prof. Guido Sanguinetti. I am working on  <mark>computational biology for cancer research</mark>. In particular I am developing models and methods to improve our understanding of the mechanisms underpinning cancer risk and development. I use statistical methods to decode hidden tumour mechanism and patterns by integrating high-throughput omic experiments and large publicly available resources. Overall, I am trying to understand biology through fancy machine learning , but I also know the power of linear regression!    
+I am a postdoc at the Harvard School of Public Health and I am a member of the Quackenbush Lab at the department of
+Biostatistics.
+I am working on  <mark>computational biology for cancer research</mark>. In particular I am developing models and
+methods to improve our understanding of the mechanisms underpinning cancer risk and development by focusing on the
+regulatory changes that happen during cancer progression. I  I recently got my PhD
+at the University of Edinburgh, with <a href="https://www.stracquadaniolab.org/">Dr. Giovanni Stracquadanio</a>. For my
+thesis I used statistical
+methods to decode hidden tumour mechanism and patterns by integrating high-throughput omic experiments and large
+publicly available resources. Overall, I am trying to understand biology through fancy machine learning , but I also
+know the power of linear regression!    
 
 <br />
 <br />
-<b>Topics</b>: <mark>heritability</mark>, <mark>cancer networks</mark>, <mark>graph neural networks</mark>, <mark>gene expression</mark>, <mark>pathway analysis</mark>, <mark>Bayesian statistics</mark>,  <mark>graph analysis</mark>.
+<b>Topics</b>:<mark>Gene Regulatory Networks</mark>,<mark>cancer progression</mark> <mark>heritability</mark>, <mark>cancer networks</mark>, <mark>graph neural networks</mark>, <mark>gene expression</mark>, <mark>pathway analysis</mark>, <mark>Bayesian statistics</mark>,  <mark>graph analysis</mark>.
 
 
 
@@ -27,6 +36,8 @@ I am a 3rd year PhD student at The University of Edinburgh, under the supervisio
 
 News
 ======
+
+* __I am now a postdoc at HSPH!__
 
 * __BAGHERA is finally on Cancer Research!__ Check out the OnlineFirst version of "The landscape of the heritable cancer genome" [doi: 10.1158/0008-5472.CAN-20-3348](https://cancerres.aacrjournals.org/content/early/2021/03/12/0008-5472.CAN-20-3348)
 
