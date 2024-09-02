@@ -11,12 +11,13 @@ redirect_from:
 
 ## Experience
 
-**Postdoctoral Researcher**. Harvard School of Public Health, Department of Biostatistics. Boston, MA. 
-  Topics and interests:
-      - Inference of individual-specific Gene Regulatory Networks for personalized medicine
-      - Analysis of multi-omics assays to infer tumor evolution trajectories.
-      - Software and workflow development
-      - Teaching and mentoring 
+**Postdoctoral Researcher**. Harvard School of Public Health, Department of Biostatistics. Boston, MA.  
+ 
+  Topics and interests:  
+  - Inference of individual-specific Gene Regulatory Networks for personalized medicine
+  - Analysis of multi-omics assays to infer tumor evolution trajectories.
+  - Software and workflow development
+  - Teaching and mentoring 
 
 **Research Technician**. The University of Edinburgh. Edinburgh UK
   - Analysis of sequencing data for synthetic biology
