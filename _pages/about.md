@@ -16,7 +16,7 @@ I am a postdoc at the Harvard School of Public Health and I am a member of the Q
 Biostatistics.
 I am working on  <mark>computational biology for cancer research</mark>. In particular I am developing models and
 methods to improve our understanding of the mechanisms underpinning cancer risk and development by focusing on the
-regulatory changes that happen during cancer progression. I  I recently got my PhD
+regulatory changes that happen during cancer progression. I got my PhD
 at the University of Edinburgh, with <a href="https://www.stracquadaniolab.org/">Dr. Giovanni Stracquadanio</a>. For my
 thesis I used statistical
 methods to decode hidden tumour mechanism and patterns by integrating high-throughput omic experiments and large
@@ -37,7 +37,9 @@ know the power of linear regression!
 News
 ======
 
-* __I am now a postdoc at HSPH!__
+* __BONOBO is out on Genome Research!__. [DOI: 10.1101/gr.279117.124](https://genome.cshlp.org/content/early/2024/08/10/gr.279117.124)
+
+* __I am now a postdoc at Harvard School of Public Health!__
 
 * __BAGHERA is finally on Cancer Research!__ Check out the OnlineFirst version of "The landscape of the heritable cancer genome" [doi: 10.1158/0008-5472.CAN-20-3348](https://cancerres.aacrjournals.org/content/early/2021/03/12/0008-5472.CAN-20-3348)
 

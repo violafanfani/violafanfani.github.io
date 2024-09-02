@@ -7,9 +7,15 @@ author_profile: true
 
 ## Other Projects
 
- * 2017, __Art Installation__. Technical collaboration to the realisation of an art installation for the visualisation of the user's heart beat. <mark>Internet Festival, Pisa</mark>.
- * 2016, __Humpty Dumpty Fall Scale for the evaluation of children's risks during hospitalization__, Implementation of a hospital's system aimed to the tracking of children's risks during the hospitalization. Supervisor: Prof. M. Mangione, <mark>University of Pisa</mark>.
- * 2014, __Electronics Lab: "Heart Beat Rate estimation device".__  Design and creation of a device for heart beat acquisition and HBR estimation using a Tiva C MCU. Supervisor: Prof. G. Fiori, <mark>University of Pisa</mark>
+ * 2021, __Rare Diseases Hackaton__. Stige app. Sharing data with the blockchain technology to improve care for Charcot
+   Marie Tooth (CMT) disease <mark>Forum Sistema Salute, Firenze, IT</mark>.
+ * 2017, __Art Installation__. Technical collaboration to the realisation of an art installation for the visualisation
+   of the user's heart beat. <mark>Internet Festival, Pisa, Italy</mark>.
+ * 2016, __Humpty Dumpty Fall Scale for the evaluation of children's risks during hospitalization__, Implementation of a
+   hospital's system aimed to the tracking of children's risks during the hospitalization. Supervisor: Prof. M.
+   Mangione, <mark>University of Pisa, IT</mark>.
+ * 2014, __Electronics Lab: "Heart Beat Rate estimation device".__  Design and creation of a device for heart beat
+   acquisition and HBR estimation using a Tiva C MCU. Supervisor: Prof. G. Fiori, <mark>University of Pisa, IT</mark>
  * 2014, __"Biomechanics of the patella".__  Modeling of the biomechanics of the patella . Supervisor: Prof. F. Di Puccio, <mark>University of Pisa</mark>
 
 ## Abroad Experience
